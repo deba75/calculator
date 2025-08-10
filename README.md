@@ -36,4 +36,4 @@ A beautiful, responsive calculator app built with Flutter. Supports both button 
 
 ---
 
-Made with ❤️ using Flutter.
+Made with Flutter.
